@@ -10,8 +10,8 @@ website:
         text: Home
       - Research.qmd
       - Members.qmd
-      - about.qmd
-
+      - href: about.qmd
+        text: PI
 format:
   html:
     theme: cosmo

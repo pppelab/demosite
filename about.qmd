@@ -1,5 +1,5 @@
 ---
-title: "David Hendry"
+title: "About"
 toc: false
 about:
   template: solana

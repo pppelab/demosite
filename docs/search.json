@@ -9,7 +9,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "David Hendry",
+    "title": "About",
     "section": "",
     "text": "Self-introduction here"
   },
@@ -58,14 +58,14 @@
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "David Hendry",
+    "title": "About",
     "section": "Education",
     "text": "Education\nEducation experience here"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "David Hendry",
+    "title": "About",
     "section": "Experience",
     "text": "Experience\nWorking experience here"
   }
