@@ -1,5 +1,6 @@
 ---
 title: "Political Psychology and Political Economy Lab"
+toc: false
 ---
 
 Here you can write a brief introduction.
