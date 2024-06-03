@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Political Psychology and Political Economy Lab",
+    "section": "",
+    "text": "Here you can write a brief introduction."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "David Hendry",
+    "section": "",
+    "text": "Self-introduction here"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Brief Introduction. Link"
+  },
+  {
+    "objectID": "Research.html#research-1",
+    "href": "Research.html#research-1",
+    "title": "Research",
+    "section": "",
+    "text": "Brief Introduction. Link"
+  },
+  {
+    "objectID": "Research.html#research-2",
+    "href": "Research.html#research-2",
+    "title": "Research",
+    "section": "Research 2",
+    "text": "Research 2\nBrief Introduction. Link"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Political Psychology and Political Economy Lab",
+    "section": "News",
+    "text": "News\n\n\n\n\n\n\n\nDay/Month/Year\nContents\n\n\nDay/Month/Year\nContents"
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Political Psychology and Political Economy Lab",
+    "section": "Latest Posts",
+    "text": "Latest Posts\n\n\n\n\n\n\n\n\nDay/Month/Year\nLink\n\n\nDay/Month/Year\nLink"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Political Psychology and Political Economy Lab",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\nTitle 1\n\nAuthor 1, Author 2 Title of Journal or Conference, location. More information can be found here, date.\n\n\n\nTitle 2\n\nAuthor 1, Author 2 Title of Journal or Conference, location. More information can be found here, date."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "David Hendry",
+    "section": "Education",
+    "text": "Education\nEducation experience here"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "David Hendry",
+    "section": "Experience",
+    "text": "Experience\nWorking experience here"
+  }
+]
