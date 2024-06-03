@@ -1,0 +1,32 @@
+---
+title: "Political Psychology and Political Economy Lab"
+---
+
+Here you can write a brief introduction.
+
+## News
+|  |  |
+|-|-|
+| **Day/Month/Year** |  [Contents](www.quartos.org)  |
+| **Day/Month/Year** |  Contents  |
+: {tbl-colwidths="[20,80]" .borderless .hover}
+
+
+
+## Latest Posts
+|  |  |
+|-|-|
+| **Day/Month/Year** |  [Link](www.quartos.org)  |
+| **Day/Month/Year** |  [Link](www.quartos.org)  |
+: {tbl-colwidths="[20,80]" .borderless .responsive}
+
+## Selected Publications
+- Title 1
+: [Author 1](Link), [Author 2](Link)\n
+  *Title of Journal or Conference*, location. More information can be found [here](link), date.
+
+- Title 2
+: [Author 1](Link), [Author 2](Link)\n
+  *Title of Journal or Conference*, location. More information can be found [here](link), date. 
+
+

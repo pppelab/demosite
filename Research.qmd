@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+## Research 1
+
+Brief Introduction. [Link](https://www.github.com) 
+
+
+## Research 2 
+
+Brief Introduction. [Link](https://www.github.com)
+
+---
+format:
+  html:
+    other-links:
+    - text: Group Public Github Repository
+      icon: github
+      href: https://github.com
+---  

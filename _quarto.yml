@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PPPELab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Research.qmd
+      - Members.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    mainfont: arial
+
+editor: visual
+
