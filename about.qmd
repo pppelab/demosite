@@ -1,5 +1,6 @@
 ---
 title: "David Hendry"
+toc: false
 about:
   template: solana
   image: your photo here
